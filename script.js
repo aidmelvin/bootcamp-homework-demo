@@ -1,0 +1,1 @@
+document.getElementById("myParagraph").innerText = "text inserted by JavaScript";
